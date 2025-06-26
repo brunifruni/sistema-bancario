@@ -30,8 +30,6 @@ Transacao -> Saque / Deposito
 Historico -> registra e filtra transações
 
 bash
-Copiar
-Editar
 
 ## 🖥️ Como utilizar
 
