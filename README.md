@@ -29,7 +29,6 @@ Conta -> ContaCorrente
 Transacao -> Saque / Deposito
 Historico -> registra e filtra transações
 
-bash
 
 ## 🖥️ Como utilizar
 
@@ -37,13 +36,11 @@ bash
    ```bash
    git clone https://github.com/seu-usuario/sistema-bancario-python.git
    cd sistema-bancario-python
-Execute o sistema:
-
-bash
-Copiar
-Editar
+   
+2. Execute o sistema:
 python nome_do_arquivo.py
-Use o menu interativo no terminal:
+
+3. Use o menu interativo no terminal:
 
 csharp
 Copiar
