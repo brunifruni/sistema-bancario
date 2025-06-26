@@ -38,7 +38,7 @@ Historico -> registra e filtra transações
    cd sistema-bancario-python
    
 2. Execute o sistema:
-```bash
+  ```bash
    python nome_do_arquivo.py
 
 3. Use o menu interativo no terminal:
@@ -52,7 +52,7 @@ Historico -> registra e filtra transações
 [nu] Novo usuário
 [q] Sair
 
-📌 Requisitos
+### Requisitos
 Python 3.10+
 
 Apenas bibliotecas padrão do Python (sem dependências externas)
@@ -74,5 +74,5 @@ Contribuições são muito bem-vindas! Abra uma issue ou envie um pull request c
 🧑‍💻 Sobre mim
 Sou Bruna, estudante de Análise e Desenvolvimento de Sistemas com foco em Cibersegurança, apaixonada por tecnologia e soluções práticas.
 
-<a href="https://www.linkedin.com/in/bruna-franzon-4a8a23355/">Meu LinkedIn</a> 
+
 
