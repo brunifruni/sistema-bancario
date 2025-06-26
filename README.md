@@ -41,16 +41,6 @@ Historico -> registra e filtra transações
 
   python nome_do_arquivo.py
 
-3. Use o menu interativo no terminal:
-
-================ MENU ================
-[d] Depositar
-[s] Sacar
-[e] Extrato
-[nc] Nova conta
-[lc] Listar contas
-[nu] Novo usuário
-[q] Sair
 
 ### 📌 Requisitos
 Python 3.10+
