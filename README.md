@@ -38,10 +38,11 @@ Historico -> registra e filtra transações
    cd sistema-bancario-python
    
 2. Execute o sistema:
-python nome_do_arquivo.py
+  ```bash
+  python nome_do_arquivo.py
 
 3. Use o menu interativo no terminal:
-
+  ```csharp
 ================ MENU ================
 [d] Depositar
 [s] Sacar
