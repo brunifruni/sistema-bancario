@@ -52,7 +52,7 @@ Historico -> registra e filtra transações
 [nu] Novo usuário
 [q] Sair
 
-### Requisitos
+📌 Requisitos
 Python 3.10+
 
 Apenas bibliotecas padrão do Python (sem dependências externas)
@@ -72,7 +72,6 @@ Implementação de testes automatizados
 Contribuições são muito bem-vindas! Abra uma issue ou envie um pull request com melhorias e sugestões.
 
 🧑‍💻 Sobre mim
-Sou Bruna, estudante de Análise e Desenvolvimento de Sistemas com foco em Cibersegurança, apaixonada por tecnologia e soluções práticas.
-
+Sou Bruna, estudante de Análise e Desenvolvimento de Sistemas com foco em Cibersegurança, apaixonada por tecnologia, código limpo e soluções práticas.
 
 
