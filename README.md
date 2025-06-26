@@ -26,8 +26,9 @@ Funções de Interface: Funções como menu, depositar, sacar, exibirExtrato, cr
 
 Como Executar
 
-Pré-requisitos: Python 3.x instalado.
-Clonar o Repositório:git clone <URL_DO_REPOSITORIO>
+Pré-requisitos: Python 3.x instalado. <br>
+Clonar o Repositório:
+git clone <URL_DO_REPOSITORIO> <br>
 cd <NOME_DO_REPOSITORIO>
 
 
