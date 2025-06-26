@@ -4,23 +4,23 @@ Este projeto é um sistema bancário de terminal desenvolvido em Python com foco
 
 ## 🚀 Funcionalidades
 
-- 📥 Depósitos
-- 💸 Saques com controle de limite e quantidade por conta
-- 📄 Geração de extrato
-- 👤 Cadastro de clientes (Pessoa Física)
-- 🏦 Criação de contas correntes
-- 🧾 Histórico de transações com data/hora
-- 📋 Listagem de contas com iterator customizado
+- 📥 Depósitos  
+- 💸 Saques com controle de limite e quantidade por conta  
+- 📄 Geração de extrato  
+- 👤 Cadastro de clientes (Pessoa Física)  
+- 🏦 Criação de contas correntes  
+- 🧾 Histórico de transações com data/hora  
+- 📋 Listagem de contas com iterator customizado  
 
 ## 🧠 Conceitos aplicados
 
-- Programação Orientada a Objetos (POO)
-  - Herança (`PessoaFisica` herdando de `Cliente`)
-  - Abstração com `Transacao` (classe abstrata)
-  - Polimorfismo (sobrescrita do método `sacar`)
-- Iterator personalizado (`contasIterador`)
-- Decoradores para log de transações (`@log_transacao`)
-- Boas práticas de encapsulamento e separação de responsabilidades
+- Programação Orientada a Objetos (POO)  
+  - Herança (`PessoaFisica` herdando de `Cliente`)  
+  - Abstração com `Transacao` (classe abstrata)  
+  - Polimorfismo (sobrescrita do método `sacar`)  
+- Iterator personalizado (`contasIterador`)  
+- Decoradores para log de transações (`@log_transacao`)  
+- Boas práticas de encapsulamento e separação de responsabilidades  
 
 ## 🏗️ Estrutura principal
 
@@ -29,20 +29,27 @@ Conta -> ContaCorrente
 Transacao -> Saque / Deposito
 Historico -> registra e filtra transações
 
+bash
+Copiar
+Editar
 
 ## 🖥️ Como utilizar
 
-1. Clone o repositório:
+1. Clone o repositório:  
    ```bash
    git clone https://github.com/seu-usuario/sistema-bancario-python.git
    cd sistema-bancario-python
-   
-2. Execute o sistema:
-  ```bash
-   python nome_do_arquivo.py
+Execute o sistema:
 
-3. Use o menu interativo no terminal:
+bash
+Copiar
+Editar
+python nome_do_arquivo.py
+Use o menu interativo no terminal:
 
+csharp
+Copiar
+Editar
 ================ MENU ================
 [d] Depositar
 [s] Sacar
@@ -51,7 +58,6 @@ Historico -> registra e filtra transações
 [lc] Listar contas
 [nu] Novo usuário
 [q] Sair
-
 📌 Requisitos
 Python 3.10+
 
@@ -73,5 +79,3 @@ Contribuições são muito bem-vindas! Abra uma issue ou envie um pull request c
 
 🧑‍💻 Sobre mim
 Sou Bruna, estudante de Análise e Desenvolvimento de Sistemas com foco em Cibersegurança, apaixonada por tecnologia, código limpo e soluções práticas.
-
-
